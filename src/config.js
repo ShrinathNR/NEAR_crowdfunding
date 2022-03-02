@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'crowdfundDapp'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'crowdfund.shrinath.testnet'
 
 function getConfig(env) {
   switch (env) {
